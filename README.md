@@ -23,9 +23,9 @@
 
 # 4. Paper Lists - 论文列表
 
-* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/pdf/2410.01956)
+* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics
 
-* **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions
+* **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
 
 * **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
