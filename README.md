@@ -9,11 +9,6 @@
     <li><a href="#start">1. Medical Background - 血管介入手术医学背景</a></li>
     <li><a href="#info">2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能</a></li>
     <li><a href="#algorithm">3. Algorithm - 算法基础</a>
-      <ul>
-        <li><a href="#common-tools">3.1 Common Tools - 常用工具</a></li>
-        <li><a href="#foundation-models">3.2 Foundation Models - 基础模型</a></li>
-        <li><a href="#robot-learning">3.3 Robot Learning - 机器人学习</a>
-      </ul>
     <li><a href="#paper_list">4. Paper Lists - 论文列表</a></li>
     <li><a href="#acknowledgement">5. Contributors</a></li>
     <li><a href="#cite">👍 Citation - 引用</a></li>
