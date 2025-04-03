@@ -21,6 +21,36 @@
 
 <section id="start"></section>
 
+# Paper Lists - 论文列表
+
+
+* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/pdf/2410.01956)
+
+* **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions
+
+* **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
+
+
+# 👍 Citation - 引用
+If you find this repository helpful, please consider citing:
+
+```
+@misc{endonav2025,
+      title = {Embodied-Intelligence-in-Endovascular-Robot-Navigation},
+      author = {TBD},
+      year = {2025},
+      howpublished = {\url{https://github.com/Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation}},
+}
+```
+
+<section id="license"></section>
+
+# 🏷️ License - 许可证
+This repository is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
+
+
+<section id="star-history"></section>
+
 # ⭐️ Star History - Star历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&type=Date)](https://star-history.com/#Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&Date)
