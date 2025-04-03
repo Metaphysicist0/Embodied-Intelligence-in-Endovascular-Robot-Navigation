@@ -10,13 +10,12 @@
     <li><a href="#info">2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能</a></li>
     <li><a href="#algorithm">3. Algorithm - 算法基础</a>
     <li><a href="#paper_list">4. Paper Lists - 论文列表</a></li>
-    <li><a href="#acknowledgement">5. Contributors</a></li>
+    <li><a href="#Contributors">5. Contributors</a></li>
     <li><a href="#cite">👍 Citation - 引用</a></li>
     <li><a href="#license">🏷️ License - 许可证</a></li>
     <li><a href="#star-history">⭐️ Star History - Star历史</a></li>
   </ul>
 </nav>
-
 
 
 <section id="paper_list"></section>
@@ -28,6 +27,11 @@
 * **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
 
 * **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
+
+
+<section id="Contributors"></section>
+
+# 5. Contributors
 
 
 # 👍 Citation - 引用
