@@ -11,7 +11,7 @@
     <li><a href="#start">1. Medical Background - 血管介入手术医学背景</a></li>
     <li><a href="#info">2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能</a></li>
     <li><a href="#algorithm">3. Algorithm - 算法基础</a>
-    <li><a href="#paper_list">4. Paper Lists - 论文列表</a></li>
+    <li><a href="#paper_list">4. Paper Lists - 血管介入论文列表</a></li>
     <li><a href="#Contributors">5. Contributors</a></li>
     <li><a href="#cite">👍 Citation - 引用</a></li>
     <li><a href="#license">🏷️ License - 许可证</a></li>
@@ -29,7 +29,7 @@
 
 <section id="paper_list"></section>
 
-# 4. Paper Lists - 论文列表
+# 4. Paper Lists - 血管介入论文列表
 
 * **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
 
