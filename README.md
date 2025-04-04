@@ -1,7 +1,6 @@
 <h1 align="center">血管介入手术机器人具身导航</h1>
 	
-<br>
-<img src="Institute.jpg" alt="Institutes">
+
 <p align="center"> </p>
 
 # Contents - 目录
@@ -12,7 +11,7 @@
     <li><a href="#info">2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能</a></li>
     <li><a href="#algorithm">3. Algorithm - 算法基础</a>
     <li><a href="#paper_list">4. Paper Lists - 血管介入论文列表</a></li>
-    <li><a href="#Contributors">5. Contributors</a></li>
+    <li><a href="#Contributors">5. Contributors and Institutes</a></li>
     <li><a href="#cite">👍 Citation - 引用</a></li>
     <li><a href="#license">🏷️ License - 许可证</a></li>
     <li><a href="#star-history">⭐️ Star History - Star历史</a></li>
@@ -52,8 +51,9 @@
 
 <section id="Contributors"></section>
 
-# 5. Contributors
-
+# 5. Contributors and Institutes
+<br>
+<img src="Institute.jpg" alt="Institutes">
 
 # 👍 Citation - 引用
 If you find this repository helpful, please consider citing:
