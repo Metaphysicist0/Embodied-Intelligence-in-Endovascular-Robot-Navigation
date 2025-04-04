@@ -26,11 +26,16 @@
 
 * **[CUHK 窦琪团队 2021-now]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
 
+* **[CoRL 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
+
 * **[UoT & NVIDIA ICRA 2024]** ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity, [website](https://orbit-surgical.github.io/)
+
+* **[JHU & UCSD ICRA 2024]** Surgical Gym: A high-performance GPU-based platform for surgical robot learning, [website](https://github.com/SamuelSchmidgall/SurgicalGym)
 
 * **[MICCAI 2024]** Transforming surgical interventions with embodied intelligence for ultrasound robotics, [website](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_66)
 
 * **[Arxiv 2025.1]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://www.researchgate.net/profile/Xu-Cao-10/publication/387976351_From_Screens_to_Scenes_A_Survey_of_Embodied_AI_in_Healthcare/links/679bf7798311ce680c448a9f/From-Screens-to-Scenes-A-Survey-of-Embodied-AI-in-Healthcare.pdf)
+
 
 <section id="paper_list"></section>
 
