@@ -24,9 +24,13 @@
 
 * **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
 
+* **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
+
 * **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics
 
 * **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
+
+* **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
 
 * **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
