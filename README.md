@@ -19,6 +19,13 @@
   </ul>
 </nav>
 
+<section id="info"></section>
+
+# 2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能
+
+* **[CUHK 窦琪团队]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
+
+* **[UoT & NVIDIA]** ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity, [website](https://orbit-surgical.github.io/)
 
 <section id="paper_list"></section>
 
