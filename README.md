@@ -22,6 +22,8 @@
 
 # 4. Paper Lists - 论文列表
 
+* **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
+
 * **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics
 
 * **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
