@@ -88,4 +88,6 @@ This repository is released under the MIT license. See [LICENSE](./LICENSE) for 
 
 # ⭐️ Star History - Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&type=Date)](https://star-history.com/#Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&type=Date)](https://www.star-history.com/#Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation&Date)
