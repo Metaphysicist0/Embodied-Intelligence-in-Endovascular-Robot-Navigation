@@ -36,6 +36,12 @@
 
 # 4. Paper Lists - 血管介入论文列表
 
+* **[Front. Hum. Neurosci. 2023]** Artificial intelligence in the autonomous navigation of endovascular interventions: a systematic review, [website](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239374/full)
+
+* **[TRO 2023]** Autonomous navigation for robot-assisted intraluminal and endovascular procedures: A systematic review, [website](https://ieeexplore.ieee.org/abstract/document/10124062/)
+
+* **[Arxiv 2024.5]** VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, [website](https://arxiv.org/abs/2405.09375)
+
 * **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
 
 * **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
