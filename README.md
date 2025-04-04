@@ -36,10 +36,11 @@
 
 * **[Arxiv 2025.1]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://www.researchgate.net/profile/Xu-Cao-10/publication/387976351_From_Screens_to_Scenes_A_Survey_of_Embodied_AI_in_Healthcare/links/679bf7798311ce680c448a9f/From-Screens-to-Scenes-A-Survey-of-Embodied-AI-in-Healthcare.pdf)
 
+* **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations [website](https://arxiv.org/abs/2503.01252)
 
 <section id="paper_list"></section>
 
-# 4. Paper Lists - 血管介入论文列表
+# 4. Paper Lists - 血管介入机器人论文列表
 
 * **[Front. Hum. Neurosci. 2023]** Artificial intelligence in the autonomous navigation of endovascular interventions: a systematic review, [website](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239374/full)
 
