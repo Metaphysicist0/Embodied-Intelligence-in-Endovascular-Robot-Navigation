@@ -1,5 +1,5 @@
-<h1 align="center">血管介入手术机器人具身导航</h1>
-	
+<h1 align="center">Embodied Intelligence in Endovascular Robot Navigation</h1>
+<h1 align="center">血管介入手术机器人具身导航</h1>	
 
 <p align="center"> </p>
 
