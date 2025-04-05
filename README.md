@@ -74,7 +74,9 @@
 
 * **[Arxiv 2025.1]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://www.researchgate.net/profile/Xu-Cao-10/publication/387976351_From_Screens_to_Scenes_A_Survey_of_Embodied_AI_in_Healthcare/links/679bf7798311ce680c448a9f/From-Screens-to-Scenes-A-Survey-of-Embodied-AI-in-Healthcare.pdf)
 
-* **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations [website](https://arxiv.org/abs/2503.01252)
+* **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations, [website](https://arxiv.org/abs/2503.01252)
+
+* **[TMRB 2025]** Towards Autonomous Cardiac Ultrasound Scanning: Combining Physician Expertise and Machine Intelligence, [website](https://ieeexplore.ieee.org/document/10947183/authors#authors)
   
 
 
