@@ -50,6 +50,8 @@
 
 * **[TPAMI 2023]** Human-Guided Reinforcement Learning With Sim-to-Real Transfer for Autonomous Navigation, [website](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10250993)
 
+* **[Arxiv 2024.6]** OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/)
+
 <section id="paper_list"></section>
 
 # 4. Paper Lists - 血管介入机器人论文列表
