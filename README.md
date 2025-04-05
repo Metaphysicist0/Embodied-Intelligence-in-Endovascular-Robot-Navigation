@@ -9,7 +9,7 @@
   <ul>
     <li><a href="#start">1. Medical Background - 血管介入手术医学背景</a></li>
     <li><a href="#info">2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能</a></li>
-    <li><a href="#algorithm">3. Algorithm - 算法基础</a>
+    <li><a href="#algorithm">3. Algorithm - 算法理论</a>
     <li><a href="#paper_list">4. Paper Lists - 血管介入论文列表</a></li>
     <li><a href="#Contributors">5. Contributors and Institutes</a></li>
     <li><a href="#cite">👍 Citation - 引用</a></li>
@@ -36,9 +36,19 @@
 
 * **[MICCAI 2024]** Transforming surgical interventions with embodied intelligence for ultrasound robotics, [website](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_66)
 
+* **[Arxiv 2024.9]** Safe Navigation for Robotic Digestive Endoscopy via Human Intervention-based Reinforcement Learning, [website](https://arxiv.org/abs/2409.15688)
+
+* **[IROS 2024]** BronchoCopilot: Towards Autonomous Robotic Bronchoscopy via Multimodal Reinforcement Learning, [website](https://ieeexplore.ieee.org/abstract/document/10802152/authors#authors)
+
 * **[Arxiv 2025.1]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://www.researchgate.net/profile/Xu-Cao-10/publication/387976351_From_Screens_to_Scenes_A_Survey_of_Embodied_AI_in_Healthcare/links/679bf7798311ce680c448a9f/From-Screens-to-Scenes-A-Survey-of-Embodied-AI-in-Healthcare.pdf)
 
 * **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations [website](https://arxiv.org/abs/2503.01252)
+
+<section id="algorithm"></section>
+
+# 3. Algorithm - 算法理论
+
+* **[TPAMI 2023]** Human-Guided Reinforcement Learning With Sim-to-Real Transfer for Autonomous Navigation, [website](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10250993)
 
 <section id="paper_list"></section>
 
