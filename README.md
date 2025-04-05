@@ -26,6 +26,8 @@
 
 * **[CUHK 窦琪团队 2021-now]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
 
+* **[Nat. Comm 2024]** AI co-pilot bronchoscope robot, [website](https://www.nature.com/articles/s41467-023-44385-7)
+
 * **[CoRL 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
 * **[UoT & NVIDIA ICRA 2024]** ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity, [website](https://orbit-surgical.github.io/)
