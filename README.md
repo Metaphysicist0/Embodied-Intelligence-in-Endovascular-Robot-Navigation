@@ -24,9 +24,9 @@
 
 * **[Nat. Rev. Phy. 2022]** A concise guide to modelling the physics of embodied intelligence in soft robotics, [website](https://www.nature.com/articles/s42254-022-00481-z)
 
-* **[CUHK 窦琪团队 2021-now]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
+* **[CUHK Qi Dou's Team 2021-now]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
 
-* **[Nat. Comm 2024]** AI co-pilot bronchoscope robot, [website](https://www.nature.com/articles/s41467-023-44385-7)
+* **[Nat. Comm. 2024]** AI co-pilot bronchoscope robot, [website](https://www.nature.com/articles/s41467-023-44385-7)
 
 * **[CoRL 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
 
