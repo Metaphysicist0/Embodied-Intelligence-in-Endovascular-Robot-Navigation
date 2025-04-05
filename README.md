@@ -92,11 +92,15 @@
 
 # 4. Paper Lists - 血管介入机器人论文列表
 
+* **[TIE]** CASOG: Conservative actor–critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
+
 * **[Front. Hum. Neurosci. 2023]** Artificial intelligence in the autonomous navigation of endovascular interventions: a systematic review, [website](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239374/full)
 
 * **[TRO 2023]** Autonomous navigation for robot-assisted intraluminal and endovascular procedures: A systematic review, [website](https://ieeexplore.ieee.org/abstract/document/10124062/)
 
 * **[Arxiv 2024.5]** VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, [website](https://arxiv.org/abs/2405.09375)
+
+* **[TMRB 2024]** Model-Based Offline Reinforcement Learning for Autonomous Delivery of Guidewire, [website](https://ieeexplore.ieee.org/document/10542446)
 
 * **[TMRB 2024]** CathSim: An Open-Source Simulator for Endovascular Intervention, [website](https://airvlab.github.io/cathsim/)
 
