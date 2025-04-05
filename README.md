@@ -79,7 +79,6 @@
 * **[TMRB 2025]** Towards Autonomous Cardiac Ultrasound Scanning: Combining Physician Expertise and Machine Intelligence, [website](https://ieeexplore.ieee.org/document/10947183/authors#authors)
   
 
-
 <section id="algorithm"></section>
 
 # 3. Algorithm - 算法理论
@@ -88,7 +87,7 @@
 
 * **[Arxiv 2024.6]** OpenVLA: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/)
 
-
+* **[Arxiv 2024.10]** π₀: Vision-Language-Action Flow Model for General Robot Control, [website](https://www.physicalintelligence.company/blog/pi0)
 
 <section id="paper_list"></section>
 
@@ -115,6 +114,8 @@
 * **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
 
 * **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
+
+* **[Arxiv 2025.1]** SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [website](https://arxiv.org/abs/2501.04515)
 
 * **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
