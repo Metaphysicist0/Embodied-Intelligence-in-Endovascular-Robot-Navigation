@@ -98,6 +98,8 @@
 
 * **[Arxiv 2024.5]** VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, [website](https://arxiv.org/abs/2405.09375)
 
+* **[TMRB 2024]** CathSim: An Open-Source Simulator for Endovascular Intervention, [website](https://airvlab.github.io/cathsim/)
+
 * **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
 
 * **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
