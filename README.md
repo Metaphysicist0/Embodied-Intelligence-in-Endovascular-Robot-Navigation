@@ -91,7 +91,7 @@
 
 <section id="paper_list"></section>
 
-# 4. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人论文列表
+# 4. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人自主导航论文列表
 
 * **[TIE 2023]** CASOG: Conservative actor-critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
 
