@@ -91,9 +91,9 @@
 
 <section id="paper_list"></section>
 
-# 4. Paper Lists - 血管介入机器人论文列表
+# 4. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人论文列表
 
-* **[TIE 2023]** CASOG: Conservative actor–critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
+* **[TIE 2023]** CASOG: Conservative actor-critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
 
 * **[Front. Hum. Neurosci. 2023]** Artificial intelligence in the autonomous navigation of endovascular interventions: a systematic review, [website](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239374/full)
 
