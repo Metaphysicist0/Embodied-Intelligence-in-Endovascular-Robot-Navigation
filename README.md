@@ -123,8 +123,7 @@
 <section id="Contributors"></section>
 
 # 5. Contributors and Institutes
-<br>
-<img src="Institute.jpg" alt="Institutes" style="transform: scale(0.7);">
+
 
 # 👍 Citation - 引用
 If you find this repository helpful, please consider citing:
