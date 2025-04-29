@@ -132,11 +132,11 @@
 If you find this repository helpful, please consider citing:
 
 ```
-@misc{endonav2025,
-      title = {Embodied-Intelligence-in-Endovascular-Robot-Navigation},
-      author = {TBD},
-      year = {2025},
-      howpublished = {\url{https://github.com/Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation}},
+@article{yao2025advancing,
+  title={Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions},
+  author={Yao, Tianliang and Lu, Bo and Kowarschik, Markus and Yuan, Yixuan and Zhao, Hubin and Ourselin, Sebastien and Althoefer, Kaspar and Ge, Junbo and Qi, Peng},
+  journal={arXiv preprint arXiv:2504.15327},
+  year={2025}
 }
 ```
 
