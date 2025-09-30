@@ -90,7 +90,12 @@
 * **[Science Robotics 2025]** AI search, physician removal: Bronchoscopy robot bridges collaboration in foreign body aspiration, [website](https://www.science.org/doi/10.1126/scirobotics.adt5338)
 
 * **[Nat. Comm. 2025]** Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system, [website](https://www.nature.com/articles/s41467-025-62865-w)
-  
+
+* **[CoRL 2025]** EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy, [website](https://arxiv.org/abs/2505.15206)
+
+* **[IROS 2025]** Jacobian Exploratory Dual-Phase Reinforcement Learning for Dynamic Endoluminal Navigation of Deformable Continuum Robots, [website](https://arxiv.org/abs/2509.00329)
+
+* **[ArXiv 2025.8]** Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach, [website](https://arxiv.org/abs/2509.00319)
 
 <section id="algorithm"></section>
 
@@ -109,7 +114,6 @@
 
 * **[IJMRCAS]** Guidewire simulation of endovascular intervention: A systematic review, [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2444) **导丝建模**
 
-* 
 
 <section id="paper_list"></section>
 
