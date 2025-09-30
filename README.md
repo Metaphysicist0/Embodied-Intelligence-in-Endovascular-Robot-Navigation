@@ -77,7 +77,19 @@
 
 * **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations, [website](https://arxiv.org/abs/2503.01252)
 
+* **[Nat. Rev. Bioeng.]** Robotic surgery, [website](https://www.nature.com/articles/s44222-025-00294-6)
+
+* **[Nat. Rev. Electr. Eng.]** Innovating robot-assisted surgery through large vision models, [website](https://www.nature.com/articles/s44287-025-00166-6)
+
 * **[TMRB 2025]** Towards Autonomous Cardiac Ultrasound Scanning: Combining Physician Expertise and Machine Intelligence, [website](https://ieeexplore.ieee.org/document/10947183/authors#authors)
+
+* **[Science Robotics 2025]** SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning, [website](https://www.science.org/doi/10.1126/scirobotics.adt5254)
+
+* **[Science Robotics 2025]** Surgical embodied intelligence for generalized task autonomy in laparoscopic robot-assisted surgery, [website](https://www.science.org/doi/10.1126/scirobotics.adt3093)
+
+* **[Science Robotics 2025]** AI search, physician removal: Bronchoscopy robot bridges collaboration in foreign body aspiration, [website](https://www.science.org/doi/10.1126/scirobotics.adt5338)
+
+* **[Nat. Comm. 2025]** Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system, [website](https://www.nature.com/articles/s41467-025-62865-w)
   
 
 <section id="algorithm"></section>
@@ -101,7 +113,6 @@ coming soon
 
 # 5. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人自主导航论文列表
 
-非learning的方法coming soon
 
 * **[TIE 2023]** CASOG: Conservative actor-critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
 
@@ -127,9 +138,13 @@ coming soon
 
 * **[Arxiv 2025.1]** SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [website](https://arxiv.org/abs/2501.04515)
 
-* **[TASE 2025]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
+* **[TASE 2025.3]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
 * **[arXiv 2025.4]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://arxiv.org/abs/2504.15327)
+
+* **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
+
+* **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
 
 <section id="Contributors"></section>
 
