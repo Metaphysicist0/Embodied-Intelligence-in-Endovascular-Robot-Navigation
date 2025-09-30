@@ -107,7 +107,9 @@
 
 # 4. Endovascular Robotics - 血管介入手术机器人
 
-coming soon
+* **[IJMRCAS]** Guidewire simulation of endovascular intervention: A systematic review, [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2444) **导丝建模**
+
+* 
 
 <section id="paper_list"></section>
 
@@ -128,6 +130,8 @@ coming soon
 
 * **[TMech 2024]** Transferring Virtual Surgical Skills to Reality: AI Agents Mastering Surgical Decision-Making in Vascular Interventional Robotics, [website](https://ieeexplore.ieee.org/abstract/document/10598392)
 
+* **[Arxiv 2024.8]** Cathaction: A benchmark for endovascular intervention understanding, [website](https://arxiv.org/abs/2408.13126)
+
 * **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
 
 * **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
@@ -137,6 +141,10 @@ coming soon
 * **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
 
 * **[Arxiv 2025.1]** SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [website](https://arxiv.org/abs/2501.04515)
+
+* **[TBME 2025.2]** Imitation Learning for Path Planning in Cardiac Percutaneous Interventions, [website](https://ieeexplore.ieee.org/abstract/document/10887073/)
+
+* **[TMRB 2025.3]** Model-Based Position Control of a Tendon-driven Variable-Length Continuum Robot for Minimally Invasive Mitral Valve Repair, [website](https://ieeexplore.ieee.org/abstract/document/10924216)
 
 * **[TASE 2025.3]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
