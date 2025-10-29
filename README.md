@@ -160,15 +160,7 @@
 
 <section id="Contributors"></section>
 
-# 6. Contributors and Institutes
 
-<table>
-  <tr>
-    <td>
-      <img src="Institute.jpg" alt="Institute">
-    </td>
-  </tr>
-</table>
 
 # 👍 Citation - 引用
 If you find this repository helpful, please consider citing:
