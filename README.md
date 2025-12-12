@@ -169,7 +169,9 @@ If you find this repository helpful, please consider citing:
 @article{yao2025advancing,
   title={Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions},
   author={Yao, Tianliang and Lu, Bo and Kowarschik, Markus and Yuan, Yixuan and Zhao, Hubin and Ourselin, Sebastien and Althoefer, Kaspar and Ge, Junbo and Qi, Peng},
-  journal={arXiv preprint arXiv:2504.15327},
+  journal={IEEE Reviews in Biomedical Engineering},
+  pages={1-19},
+  publisher={IEEE},
   year={2025}
 }
 ```
