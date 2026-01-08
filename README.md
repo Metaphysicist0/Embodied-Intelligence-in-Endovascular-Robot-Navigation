@@ -152,7 +152,7 @@
 
 * **[TASE 2025.3]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
-* **[Arxiv 2025.4]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://arxiv.org/abs/2504.15327)
+* **[RBME 2025.4]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://ieeexplore.ieee.org/document/11301748)
 
 * **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
 
