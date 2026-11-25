@@ -73,7 +73,7 @@
 
 * **[IROS 2024]** SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants, [website](https://ieeexplore.ieee.org/abstract/document/10802053)
 
-* **[Arxiv 2025.1]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://www.researchgate.net/profile/Xu-Cao-10/publication/387976351_From_Screens_to_Scenes_A_Survey_of_Embodied_AI_in_Healthcare/links/679bf7798311ce680c448a9f/From-Screens-to-Scenes-A-Survey-of-Embodied-AI-in-Healthcare.pdf)
+* **[Inf. Fusion 2025]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://doi.org/10.1016/j.inffus.2025.103033)
 
 * **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations, [website](https://arxiv.org/abs/2503.01252)
 
@@ -95,7 +95,9 @@
 
 * **[IROS 2025]** Jacobian Exploratory Dual-Phase Reinforcement Learning for Dynamic Endoluminal Navigation of Deformable Continuum Robots, [website](https://arxiv.org/abs/2509.00329)
 
-* **[Arxiv 2025.8]** Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach, [website](https://arxiv.org/abs/2509.00319)
+* **[Arxiv 2025.9]** Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach, [website](https://arxiv.org/abs/2509.00319)
+
+* **[RAL 2026]** Execution-Level Correction for Surgical Robot Automation via Residual Policy Learning from Human Interventions, [website](https://doi.org/10.1109/LRA.2026.3749514)
 
 <section id="algorithm"></section>
 
@@ -115,6 +117,12 @@
 * **[IJMRCAS]** Guidewire simulation of endovascular intervention: A systematic review, [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2444) **导丝建模**
 
 
+* **[Arxiv 2026.2]** An Anatomy-Specific Guidewire Shaping Robot for Improved Vascular Navigation, [website](https://arxiv.org/abs/2602.04050)
+
+* **[Ann. Biomed. Eng. 2026.7]** Haptic Portable Robotic Device for Automated Guidewire or Catheter Navigation in Endovascular Procedures, [website](https://doi.org/10.1007/s10439-026-04315-2)
+
+* **[Arxiv 2026.11]** Remote Teleoperation of Endovascular Robots: A Network Emulation Framework for Systematic Performance Evaluation, [website](https://arxiv.org/abs/2611.24280)
+
 <section id="paper_list"></section>
 
 # 5. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人自主导航论文列表
@@ -126,7 +134,7 @@
 
 * **[TRO 2023]** Autonomous navigation for robot-assisted intraluminal and endovascular procedures: A systematic review, [website](https://ieeexplore.ieee.org/abstract/document/10124062/)
 
-* **[Arxiv 2024.5]** VascularPilot3D: Toward a 3D fully autonomous navigation for endovascular robotics, [website](https://arxiv.org/abs/2405.09375)
+* **[ICRA 2025]** VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11127370)
 
 * **[TMRB 2024]** Model-Based Offline Reinforcement Learning for Autonomous Delivery of Guidewire, [website](https://ieeexplore.ieee.org/document/10542446)
 
@@ -140,7 +148,7 @@
 
 * **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
 
-* **[Arxiv 2024.10]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://arxiv.org/pdf/2410.01956)
+* **[Comput. Biol. Med. 2025]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://doi.org/10.1016/j.compbiomed.2025.110844)
 
 * **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
 
@@ -157,6 +165,28 @@
 * **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
 
 * **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
+
+* **[RAL 2026]** Toward AI Autonomous Navigation for Mechanical Thrombectomy Using Hierarchical Modular Multi-Agent Reinforcement Learning (HM-MARL), [website](https://ieeexplore.ieee.org/abstract/document/11395986)
+
+* **[Arxiv 2026.2]** Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation, [website](https://arxiv.org/abs/2602.20215)
+
+* **[ICRA 2026]** Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation, [website](https://ieeexplore.ieee.org/abstract/document/11696341)
+
+* **[Inf. Fusion 2026]** A hierarchical information policy fusion framework with multimodal large language models for autonomous guidewire navigation in endovascular procedures, [website](https://www.sciencedirect.com/science/article/pii/S1566253525011777)
+
+* **[Arxiv 2026.6]** Vision-Language Procedural Reasoning for Context-Aware Reward Modeling of Robotic Endovascular Guidewire Navigation, [website](https://arxiv.org/abs/2606.30698)
+
+* **[TRO 2026]** Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention, [website](https://www.ieee-ras.org/news/bending-aware-vision-co-pilot-for-intelligent-robotic-assistance-in-endovascular-intervention/)
+
+* **[TASE 2026.9]** Perception-Guided Endovascular Navigation via Fuzzy Pose Correction and Short-Horizon Diffusion Policy Learning With In-Vivo Validation, [website](https://ieeexplore.ieee.org/abstract/document/11707691)
+
+* **[Arxiv 2026.10]** A 2D Image Feedback-Based Autonomous Endovascular Navigation Method: A Perception and Control Framework, [website](https://arxiv.org/abs/2610.21481)
+
+* **[TRO 2026]** Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization With In-Vivo Validation, [website](https://doi.org/10.1109/TRO.2026.3747246)
+
+* **[Arxiv 2026.10]** MCP-Net: Real-Time Coronary Perception Network and Topological Analysis for Robotic Guidewire Navigation, [website](https://arxiv.org/abs/2610.37127)
+
+* **[Arxiv 2026.11]** Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum, [website](https://arxiv.org/abs/2611.03446)
 
 <section id="Contributors"></section>
 
