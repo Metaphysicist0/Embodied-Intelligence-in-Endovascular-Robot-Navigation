@@ -24,9 +24,9 @@
 
 # 2. Embodied Intelligence in Medical Robotics - 医疗机器人具身智能
 
-* **[Nat. Rev. Phy. 2022]** A concise guide to modelling the physics of embodied intelligence in soft robotics, [website](https://www.nature.com/articles/s42254-022-00481-z)
-
 * **[CUHK Qi DOU's Team 2021-now]** SurRoL: RL Centered and dVRK Compatible Platform for Surgical Robot Learning, [website](https://med-air.github.io/SurRoL/)
+
+* **[Nat. Rev. Phy. 2022]** A concise guide to modelling the physics of embodied intelligence in soft robotics, [website](https://www.nature.com/articles/s42254-022-00481-z)
 
 * **[RAL 2022]** Open Simulation Environment for Learning and Practice of Robot-Assisted Surgical Suturing, [website](https://ieeexplore.ieee.org/abstract/document/9697399)
 
@@ -42,6 +42,10 @@
 
 * **[Nat. Comm. 2024]** AI co-pilot bronchoscope robot, [website](https://www.nature.com/articles/s41467-023-44385-7)
 
+* **[Arxiv 2024.6]** SurgicAI: A Hierarchical Platform for Fine-Grained Surgical Policy Learning and Benchmarking, [website](https://arxiv.org/abs/2406.13865)
+
+* **[Arxiv 2024.9]** Safe Navigation for Robotic Digestive Endoscopy via Human Intervention-based Reinforcement Learning, [website](https://arxiv.org/abs/2409.15688)
+
 * **[TASE 2024]** Data-Driven Methods Applied to Soft Robot Modeling and Control: A Review, [website](https://ieeexplore.ieee.org/abstract/document/10477253)
 
 * **[CoRL 2024]** Surgical Robot Transformer: Imitation Learning for Surgical Tasks, [website](https://surgical-robot-transformer.github.io/)
@@ -54,15 +58,11 @@
 
 * **[CVPRw 2024]** Creating a Digital Twin of Spinal Surgery: A Proof of Concept, [website](https://openaccess.thecvf.com/content/CVPR2024W/DCAMI/html/Hein_Creating_a_Digital_Twin_of_Spinal_Surgery_A_Proof_of_CVPRW_2024_paper.html)
 
-* **[Arxiv 2024.6]** SurgicAI: A Hierarchical Platform for Fine-Grained Surgical Policy Learning and Benchmarking, [website](https://arxiv.org/abs/2406.13865)
-
 * **[TASE 2024]** Sim2Real Rope Cutting With a Surgical Robot Using Vision-Based Reinforcement Learning, [website](https://ieeexplore.ieee.org/abstract/document/10555544)
 
 * **[RAL 2024]** Autonomous Blood Suction for Robot-Assisted Surgery: A Sim-to-Real Reinforcement Learning Approach, [website](https://ieeexplore.ieee.org/abstract/document/10578312)
 
 * **[MICCAI 2024]** Transforming surgical interventions with embodied intelligence for ultrasound robotics, [website](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_66)
-
-* **[Arxiv 2024.9]** Safe Navigation for Robotic Digestive Endoscopy via Human Intervention-based Reinforcement Learning, [website](https://arxiv.org/abs/2409.15688)
 
 * **[TMRB 2024]** Visuomotor Policy Learning for Task Automation of Surgical Robot, [website](https://ieeexplore.ieee.org/abstract/document/10685114)
 
@@ -74,13 +74,17 @@
 
 * **[IROS 2024]** SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants, [website](https://ieeexplore.ieee.org/abstract/document/10802053)
 
-* **[Inf. Fusion 2025]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://doi.org/10.1016/j.inffus.2025.103033)
-
 * **[Arxiv 2025.3]** Diffusion Stabilizer Policy for Automated Surgical Robot Manipulations, [website](https://arxiv.org/abs/2503.01252)
 
-* **[Nat. Rev. Bioeng.]** Robotic surgery, [website](https://www.nature.com/articles/s44222-025-00294-6)
+* **[Nat. Rev. Bioeng. 2025]** Robotic surgery, [website](https://www.nature.com/articles/s44222-025-00294-6)
 
-* **[Nat. Rev. Electr. Eng.]** Innovating robot-assisted surgery through large vision models, [website](https://www.nature.com/articles/s44287-025-00166-6)
+* **[Nat. Rev. Electr. Eng. 2025]** Innovating robot-assisted surgery through large vision models, [website](https://www.nature.com/articles/s44287-025-00166-6)
+
+* **[Nat. Comm. 2025]** Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system, [website](https://www.nature.com/articles/s41467-025-62865-w)
+
+* **[Arxiv 2025.9]** Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach, [website](https://arxiv.org/abs/2509.00319)
+
+* **[Inf. Fusion 2025]** From Screens to Scenes: A Survey of Embodied AI in Healthcare, [website](https://doi.org/10.1016/j.inffus.2025.103033)
 
 * **[TMRB 2025]** Towards Autonomous Cardiac Ultrasound Scanning: Combining Physician Expertise and Machine Intelligence, [website](https://ieeexplore.ieee.org/document/10947183/authors#authors)
 
@@ -90,13 +94,9 @@
 
 * **[Science Robotics 2025]** AI search, physician removal: Bronchoscopy robot bridges collaboration in foreign body aspiration, [website](https://www.science.org/doi/10.1126/scirobotics.adt5338)
 
-* **[Nat. Comm. 2025]** Towards expert-level autonomous carotid ultrasonography with large-scale learning-based robotic system, [website](https://www.nature.com/articles/s41467-025-62865-w)
-
 * **[CoRL 2025]** EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy, [website](https://arxiv.org/abs/2505.15206)
 
 * **[IROS 2025]** Jacobian Exploratory Dual-Phase Reinforcement Learning for Dynamic Endoluminal Navigation of Deformable Continuum Robots, [website](https://arxiv.org/abs/2509.00329)
-
-* **[Arxiv 2025.9]** Contact-Aided Navigation of Flexible Robotic Endoscope Using Deep Reinforcement Learning in Dynamic Stomach, [website](https://arxiv.org/abs/2509.00319)
 
 * **[RAL 2026]** Execution-Level Correction for Surgical Robot Automation via Residual Policy Learning from Human Interventions, [website](https://doi.org/10.1109/LRA.2026.3749514)
 
@@ -115,22 +115,22 @@
 
 # 4. Endovascular Robotics - 血管介入手术机器人
 
-* **[IJMRCAS]** Guidewire simulation of endovascular intervention: A systematic review, [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2444) **导丝建模**
-
-
-* **[Arxiv 2026.2]** An Anatomy-Specific Guidewire Shaping Robot for Improved Vascular Navigation, [website](https://arxiv.org/abs/2602.04050)
-
-* **[Ann. Biomed. Eng. 2026.7]** Haptic Portable Robotic Device for Automated Guidewire or Catheter Navigation in Endovascular Procedures, [website](https://doi.org/10.1007/s10439-026-04315-2)
-
-* **[Arxiv 2026.11]** Remote Teleoperation of Endovascular Robots: A Network Emulation Framework for Systematic Performance Evaluation, [website](https://arxiv.org/abs/2611.24280)
-
 * **[JACC 2013]** Safety and Feasibility of Robotic Percutaneous Coronary Intervention: PRECISE (Percutaneous Robotically-Enhanced Coronary Intervention) Study, [website](https://doi.org/10.1016/j.jacc.2012.12.045)
+
 
 * **[EClinicalMedicine 2019]** Long Distance Tele-Robotic-Assisted Percutaneous Coronary Intervention: A Report of First-in-Human Experience, [website](https://pmc.ncbi.nlm.nih.gov/articles/PMC6833466/)
 
-* **[Nat. Biomed. Eng. 2026]** Iontronic tip-sensing guidewires, [website](https://doi.org/10.1038/s41551-025-01548-9)
+* **[IJMRCAS 2022]** Guidewire simulation of endovascular intervention: A systematic review, [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2444) **导丝建模**
+
+* **[Arxiv 2026.2]** An Anatomy-Specific Guidewire Shaping Robot for Improved Vascular Navigation, [website](https://arxiv.org/abs/2602.04050)
 
 * **[JACC Cardiovasc. Interv. 2026]** Fully Teleoperated Peripheral Endovascular Interventions With a Novel Robotic System: A First in Human Study, [website](https://doi.org/10.1016/j.jcin.2025.12.021)
+
+* **[Ann. Biomed. Eng. 2026.7]** Haptic Portable Robotic Device for Automated Guidewire or Catheter Navigation in Endovascular Procedures, [website](https://doi.org/10.1007/s10439-026-04315-2)
+
+* **[Nat. Biomed. Eng. 2026]** Iontronic tip-sensing guidewires, [website](https://doi.org/10.1038/s41551-025-01548-9)
+
+* **[Arxiv 2026.11]** Remote Teleoperation of Endovascular Robots: A Network Emulation Framework for Systematic Performance Evaluation, [website](https://arxiv.org/abs/2611.24280)
 
 ## 4.1 Magnetic Guidewires and Catheters - 磁控导丝与导管
 
@@ -140,7 +140,7 @@
 
 * **[Science Robotics 2022]** Telerobotic neurovascular interventions with magnetic manipulation, [website](https://doi.org/10.1126/scirobotics.abg9907)
 
-* **[Adv. Intell. Syst. 2024]** A Magnetically Controlled Guidewire Robot System with Steering and Propulsion Capabilities for Vascular Interventional Surgery, [website](https://doi.org/10.1002/aisy.202300267)
+* **[Adv. Intell. Syst. 2023]** A Magnetically Controlled Guidewire Robot System with Steering and Propulsion Capabilities for Vascular Interventional Surgery, [website](https://doi.org/10.1002/aisy.202300267)
 
 * **[Science Robotics 2024]** Dexterous helical magnetic robot for improved endovascular access, [website](https://doi.org/10.1126/scirobotics.adh0298)
 
@@ -162,7 +162,7 @@
 
 * **[Science Advances 2021]** Ultrasound Doppler-guided real-time navigation of a magnetic microswarm for active endovascular delivery, [website](https://doi.org/10.1126/sciadv.abe5914)
 
-* **[Adv. Intell. Syst. 2021]** Mobile Ultrasound Tracking and Magnetic Control for Long-Distance Endovascular Navigation of Untethered Miniature Robots against Pulsatile Flow, [website](https://doi.org/10.1002/aisy.202100144)
+* **[Adv. Intell. Syst. 2022]** Mobile Ultrasound Tracking and Magnetic Control for Long-Distance Endovascular Navigation of Untethered Miniature Robots against Pulsatile Flow, [website](https://doi.org/10.1002/aisy.202100144)
 
 * **[Nat. Comm. 2022]** Adaptive wireless millirobotic locomotion into distal vasculature, [website](https://www.nature.com/articles/s41467-022-32059-9)
 
@@ -176,17 +176,17 @@
 
 * **[Bioact. Mater. 2026]** Cocklebur-inspired magnetic nanomotors for targeted thrombus therapy, [website](https://doi.org/10.1016/j.bioactmat.2025.09.029)
 
-* **[MethodsX 2026]** Non-survival rat endovascular testbed for early-stage evaluation of untethered magnetic microrobots, [website](https://www.sciencedirect.com/science/article/pii/S221501612600124X)
-
 * **[Science Advances 2026]** Systemic-to-local nanorobot thrombolysis, [website](https://doi.org/10.1126/sciadv.aed9464)
 
 * **[Microsyst. Nanoeng. 2026]** Ultrasound-guided closed-loop control of magnetic hydrogel microrobots with adaptive gait switching, [website](https://doi.org/10.1038/s41378-026-01372-4)
 
 * **[Nat. Biomed. Eng. 2026]** A miniature endovascular soft robot for active blood flow regulation in occluded vessels, [website](https://doi.org/10.1038/s41551-026-01771-y)
 
+* **[Arxiv 2026.8]** Contrast-Free Autonomous Navigation of Untethered Endovascular Microrobots Using Single-Plane Fluoroscopy, [website](https://arxiv.org/abs/2608.30220)
+
 * **[Mater. Today Bio 2026]** A magnetic nanorobot with guided aggregation and thrombin-triggered coagulation for endovascular embolization, [website](https://doi.org/10.1016/j.mtbio.2026.103596)
 
-* **[Arxiv 2026.8]** Contrast-Free Autonomous Navigation of Untethered Endovascular Microrobots Using Single-Plane Fluoroscopy, [website](https://arxiv.org/abs/2608.30220)
+* **[MethodsX 2026]** Non-survival rat endovascular testbed for early-stage evaluation of untethered magnetic microrobots, [website](https://www.sciencedirect.com/science/article/pii/S221501612600124X)
 
 * **[Small Methods 2026]** Design and Navigation of Magnetic Micro/Nanorobotic Swarms in Complex Endovascular Networks: From Swarm Dynamics to Targeted Therapeutics, [website](https://doi.org/10.1002/smtd.71185)
 
@@ -195,13 +195,19 @@
 # 5. Paper Lists regarding Endovascular Robot Navigation - 血管介入机器人自主导航论文列表
 
 
+* **[IJCARS 2022]** Learning-based autonomous vascular guidewire navigation without human demonstration in the venous system of a porcine liver, [website](https://doi.org/10.1007/s11548-022-02646-8)
+
+* **[J. Comput. Des. Eng. 2022]** Learning-based catheter and guidewire-driven autonomous vascular intervention robotic system for reduced repulsive force, [website](https://academic.oup.com/jcde/article/9/5/1549/6652902)
+
 * **[TIE 2023]** CASOG: Conservative actor-critic with smooth gradient for skill learning in robot-assisted intervention, [website](https://ieeexplore.ieee.org/abstract/document/10254299)
 
 * **[Front. Hum. Neurosci. 2023]** Artificial intelligence in the autonomous navigation of endovascular interventions: a systematic review, [website](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1239374/full)
 
 * **[TRO 2023]** Autonomous navigation for robot-assisted intraluminal and endovascular procedures: A systematic review, [website](https://ieeexplore.ieee.org/abstract/document/10124062/)
 
-* **[ICRA 2025]** VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11127370)
+* **[IJCARS 2024]** Autonomous navigation of catheters and guidewires in mechanical thrombectomy using inverse reinforcement learning, [website](https://doi.org/10.1007/s11548-024-03208-w)
+
+* **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
 
 * **[TMRB 2024]** Model-Based Offline Reinforcement Learning for Autonomous Delivery of Guidewire, [website](https://ieeexplore.ieee.org/document/10542446)
 
@@ -211,12 +217,6 @@
 
 * **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
 
-* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
-
-* **[Comput. Biol. Med. 2025]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://doi.org/10.1016/j.compbiomed.2025.110844)
-
-* **[Arxiv 2024.11]** Robotic transcatheter tricuspid valve replacement with hybrid enhanced intelligence: a new paradigm and first-in-vivo study, [website](https://arxiv.org/abs/2411.12478)
-
 * **[Arxiv 2025.1]** SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [website](https://arxiv.org/abs/2501.04515)
 
 * **[TBME 2025.2]** Imitation Learning for Path Planning in Cardiac Percutaneous Interventions, [website](https://ieeexplore.ieee.org/abstract/document/10887073/)
@@ -225,23 +225,29 @@
 
 * **[TASE 2025.3]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
 
-* **[RBME 2026]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://doi.org/10.1109/RBME.2025.3641383)
+* **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
+
+* **[Comput. Biol. Med. 2025]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://doi.org/10.1016/j.compbiomed.2025.110844)
+
+* **[MedComm 2025]** Unleashing the Potential: First-in-Human Evaluation of Automatic Robotic-Assisted Endovascular Aortic Repair for Standardized Therapies, [website](https://doi.org/10.1002/mco2.70489)
+
+* **[ICRA 2025]** VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11127370)
+
+* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
 
 * **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
 
-* **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
-
-* **[RAL 2026]** Toward AI Autonomous Navigation for Mechanical Thrombectomy Using Hierarchical Modular Multi-Agent Reinforcement Learning (HM-MARL), [website](https://ieeexplore.ieee.org/abstract/document/11395986)
-
 * **[Arxiv 2026.2]** Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation, [website](https://arxiv.org/abs/2602.20215)
 
-* **[ICRA 2026]** Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation, [website](https://ieeexplore.ieee.org/abstract/document/11696341)
+* **[RAL 2026]** Toward AI Autonomous Navigation for Mechanical Thrombectomy Using Hierarchical Modular Multi-Agent Reinforcement Learning (HM-MARL), [website](https://ieeexplore.ieee.org/abstract/document/11395986)
 
 * **[Inf. Fusion 2026]** A hierarchical information policy fusion framework with multimodal large language models for autonomous guidewire navigation in endovascular procedures, [website](https://www.sciencedirect.com/science/article/pii/S1566253525011777)
 
 * **[Arxiv 2026.6]** Vision-Language Procedural Reasoning for Context-Aware Reward Modeling of Robotic Endovascular Guidewire Navigation, [website](https://arxiv.org/abs/2606.30698)
 
-* **[TRO 2026]** Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention, [website](https://www.ieee-ras.org/news/bending-aware-vision-co-pilot-for-intelligent-robotic-assistance-in-endovascular-intervention/)
+* **[Arxiv 2026.7]** Learning Expert Strategy for Autonomous Robotic Endovascular Intervention via Decoupled Procedural Execution, [website](https://arxiv.org/abs/2607.00066)
+
+* **[Bioengineering 2026]** AI-Driven Robotic PCI: A Perception-to-Action Framework for Coronary Guidewire Control, [website](https://www.mdpi.com/2306-5354/13/8/848)
 
 * **[TASE 2026.9]** Perception-Guided Endovascular Navigation via Fuzzy Pose Correction and Short-Horizon Diffusion Policy Learning With In-Vivo Validation, [website](https://ieeexplore.ieee.org/abstract/document/11707691)
 
@@ -253,17 +259,11 @@
 
 * **[Arxiv 2026.11]** Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum, [website](https://arxiv.org/abs/2611.03446)
 
-* **[IJCARS 2022]** Learning-based autonomous vascular guidewire navigation without human demonstration in the venous system of a porcine liver, [website](https://doi.org/10.1007/s11548-022-02646-8)
+* **[RBME 2026]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://doi.org/10.1109/RBME.2025.3641383)
 
-* **[J. Comput. Des. Eng. 2022]** Learning-based catheter and guidewire-driven autonomous vascular intervention robotic system for reduced repulsive force, [website](https://academic.oup.com/jcde/article/9/5/1549/6652902)
+* **[ICRA 2026]** Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation, [website](https://ieeexplore.ieee.org/abstract/document/11696341)
 
-* **[IJCARS 2024]** Autonomous navigation of catheters and guidewires in mechanical thrombectomy using inverse reinforcement learning, [website](https://doi.org/10.1007/s11548-024-03208-w)
-
-* **[MedComm 2025]** Unleashing the Potential: First-in-Human Evaluation of Automatic Robotic-Assisted Endovascular Aortic Repair for Standardized Therapies, [website](https://doi.org/10.1002/mco2.70489)
-
-* **[Arxiv 2026.7]** Learning Expert Strategy for Autonomous Robotic Endovascular Intervention via Decoupled Procedural Execution, [website](https://arxiv.org/abs/2607.00066)
-
-* **[Bioengineering 2026]** AI-Driven Robotic PCI: A Perception-to-Action Framework for Coronary Guidewire Control, [website](https://www.mdpi.com/2306-5354/13/8/848)
+* **[TRO 2026]** Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention, [website](https://www.ieee-ras.org/news/bending-aware-vision-co-pilot-for-intelligent-robotic-assistance-in-endovascular-intervention/)
 
 <section id="medical-imaging"></section>
 
@@ -299,9 +299,9 @@
 
 * **[Comput. Med. Imaging Graph. 2023]** ImageCAS: A large-scale dataset and benchmark for coronary artery segmentation based on computed tomography angiography images, [website](https://www.sciencedirect.com/science/article/pii/S0895611123001052)
 
-* **[MIDL 2026]** Scaling up fine-grained intracranial vessel annotations in computed tomography angiography, [website](https://proceedings.mlr.press/v340/lin26a.html)
-
 * **[Arxiv 2026.11]** Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models, [website](https://arxiv.org/abs/2611.09714)
+
+* **[MIDL 2026]** Scaling up fine-grained intracranial vessel annotations in computed tomography angiography, [website](https://proceedings.mlr.press/v340/lin26a.html)
 
 ### DSA / X-Ray Angiography - 数字减影与 X 线血管造影
 
@@ -309,9 +309,9 @@
 
 * **[Comput. Med. Imaging Graph. 2024]** CAVE: Cerebral artery–vein segmentation in digital subtraction angiography, [website](https://doi.org/10.1016/j.compmedimag.2024.102392)
 
-* **[Med. Image Anal. 2024]** DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences, [website](https://www.sciencedirect.com/science/article/pii/S1361841524001725)
-
 * **[Sci. Rep. 2024]** Pretrained subtraction and segmentation model for coronary angiograms, [website](https://www.nature.com/articles/s41598-024-71063-5)
+
+* **[Med. Image Anal. 2024]** DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences, [website](https://www.sciencedirect.com/science/article/pii/S1361841524001725)
 
 * **[CVPR 2025]** DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation, [website](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DeNVeR_Deformable_Neural_Vessel_Representations_for_Unsupervised_Video_Vessel_Segmentation_CVPR_2025_paper.html)
 
@@ -319,9 +319,9 @@
 
 * **[Arxiv 2026.1]** Few-Shot Video Object Segmentation in X-Ray Angiography Using Local Matching and Spatio-Temporal Consistency Loss, [website](https://arxiv.org/abs/2601.00988)
 
-* **[AAAI 2026]** VasoMIM: Vascular Anatomy-Aware Masked Image Modeling for Vessel Segmentation, [website](https://ojs.aaai.org/index.php/AAAI/article/view/42503)
-
 * **[JBHI 2026]** Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning, [website](https://doi.org/10.1109/JBHI.2026.3685986)
+
+* **[AAAI 2026]** VasoMIM: Vascular Anatomy-Aware Masked Image Modeling for Vessel Segmentation, [website](https://ojs.aaai.org/index.php/AAAI/article/view/42503)
 
 ## 6.4 2D–3D Registration and Multi-View Matching - 二维–三维配准与多视角匹配
 
