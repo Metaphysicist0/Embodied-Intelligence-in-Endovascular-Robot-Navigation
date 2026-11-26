@@ -134,6 +134,10 @@
 
 ## 4.1 Magnetic Guidewires and Catheters - 磁控导丝与导管
 
+* **[Catheter. Cardiovasc. Interv. 2008]** A randomized comparison of the magnetic navigation system versus conventional percutaneous coronary intervention, [website](https://doi.org/10.1002/ccd.21674)
+
+* **[Catheter. Cardiovasc. Interv. 2009]** Use of magnetic guidewire navigation in the treatment of lower extremity peripheral vascular disease: Report of the first human clinical experience, [website](https://doi.org/10.1002/ccd.21846)
+
 * **[Soft Robotics 2019]** A Magnetically Controlled Soft Microrobot Steering a Guidewire in a Three-Dimensional Phantom Vascular Network, [website](https://doi.org/10.1089/soro.2018.0019)
 
 * **[Science Robotics 2019]** Ferromagnetic soft continuum robots, [website](https://doi.org/10.1126/scirobotics.aax7329)
@@ -144,15 +148,23 @@
 
 * **[Science Robotics 2024]** Dexterous helical magnetic robot for improved endovascular access, [website](https://doi.org/10.1126/scirobotics.adh0298)
 
+* **[ICRA 2025]** Image-Based Compliance Control for Robotic Steering of a Ferromagnetic Guidewire, [website](https://doi.org/10.1109/ICRA55743.2025.11128160)
+
 * **[Science Advances 2025]** A magnetically actuated microcatheter with soft rotatable tip for enhanced endovascular access and treatment efficiency, [website](https://doi.org/10.1126/sciadv.adv1682)
 
 * **[Nat. Comm. 2025]** Magnetically controlled microrobotic system for programmable stiffness tuning and active steering of microcatheters, [website](https://www.nature.com/articles/s41467-025-67638-z)
 
-* **[Science Advances 2026]** Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies, [website](https://doi.org/10.1126/sciadv.aea0201)
+* **[TIM 2026]** Intravascular Ultrasound Robot Based on a Permanent Magnet System: Magnetic-Actuated Imaging and Magnetic Localization Navigation, [website](https://doi.org/10.1109/TIM.2026.3670533)
 
 * **[Adv. Healthcare Mater. 2026]** Magnetic Control of Intravascular Collaborative Robotic (Cobot) Guidewire: Neurovascular Intervention Studies in Phantom and Swine Models, [website](https://doi.org/10.1002/adhm.71365)
 
+* **[PLOS ONE 2026]** In vitro contact force evaluation of robotic magnetic navigation catheters; Head to head comparison of different catheters and different settings, [website](https://doi.org/10.1371/journal.pone.0357588)
+
 * **[Actuators 2026]** Hybrid Path Planning and Reinforcement Learning-Based Magnetic Guidewire Navigation in Cardiac Intervention, [website](https://www.mdpi.com/2076-0825/15/10/538)
+
+* **[AJNR 2026]** Robotic Intracranial Navigation Using a Magnetically Steerable Guidewire: In Vitro Feasibility Study and Comparison of Performance with Standard Devices for Stroke Treatment, [website](https://doi.org/10.3174/ajnr.A9361)
+
+* **[Science Advances 2026]** Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies, [website](https://doi.org/10.1126/sciadv.aea0201)
 
 ## 4.2 Untethered Magnetic Milli-, Micro- and Nanorobots - 无缆磁驱毫米与微纳机器人
 
@@ -167,6 +179,10 @@
 * **[Nat. Comm. 2022]** Adaptive wireless millirobotic locomotion into distal vasculature, [website](https://www.nature.com/articles/s41467-022-32059-9)
 
 * **[Science Advances 2023]** Swarming magnetic nanorobots bio-interfaced by heparinoid-polymer brushes for in vivo safe synergistic thrombolysis, [website](https://doi.org/10.1126/sciadv.adk7251)
+
+* **[Science Advances 2024]** tPA-anchored nanorobots for in vivo arterial recanalization at submillimeter-scale segments, [website](https://doi.org/10.1126/sciadv.adk8970)
+
+* **[Science Robotics 2024]** Tracking and navigation of a microswarm under laser speckle contrast imaging for targeted delivery, [website](https://doi.org/10.1126/scirobotics.adh1978)
 
 * **[Commun. Eng. 2024]** Ex vivo validation of magnetically actuated intravascular untethered robots in a clinical setting, [website](https://www.nature.com/articles/s44172-024-00215-2)
 
@@ -217,13 +233,17 @@
 
 * **[IROS 2024]** Autonomous Guidewire Navigation in Dynamic Environments, [website](https://ieeexplore.ieee.org/abstract/document/10801651)
 
-* **[Arxiv 2025.1]** SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [website](https://arxiv.org/abs/2501.04515)
-
 * **[TBME 2025.2]** Imitation Learning for Path Planning in Cardiac Percutaneous Interventions, [website](https://ieeexplore.ieee.org/abstract/document/10887073/)
 
 * **[TMRB 2025.3]** Model-Based Position Control of a Tendon-driven Variable-Length Continuum Robot for Minimally Invasive Mitral Valve Repair, [website](https://ieeexplore.ieee.org/abstract/document/10924216)
 
 * **[TASE 2025.3]** Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures, [website](https://ieeexplore.ieee.org/abstract/document/10945450/)
+
+* **[ICRA 2025]** VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11127370)
+
+* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
+
+* **[IROS 2025]** SplineFormer: An Explainable Transformer Network for Autonomous Endovascular Navigation, [website](https://doi.org/10.1109/IROS60139.2025.11246898)
 
 * **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
 
@@ -231,23 +251,19 @@
 
 * **[MedComm 2025]** Unleashing the Potential: First-in-Human Evaluation of Automatic Robotic-Assisted Endovascular Aortic Repair for Standardized Therapies, [website](https://doi.org/10.1002/mco2.70489)
 
-* **[ICRA 2025]** VascularPilot3D: Toward a 3D Fully Autonomous Navigation for Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11127370)
-
-* **[ICRA 2025]** Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics, [website](https://arxiv.org/abs/2504.05330)
-
 * **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
 
-* **[Arxiv 2026.2]** Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation, [website](https://arxiv.org/abs/2602.20215)
+* **[TMech 2026]** Compact Design and Image-Space Pose Control of a Robot for Tendon-Driven Concentric Catheters in Mitral Repair Interventions, [website](https://doi.org/10.1109/TMECH.2025.3602061)
 
-* **[RAL 2026]** Toward AI Autonomous Navigation for Mechanical Thrombectomy Using Hierarchical Modular Multi-Agent Reinforcement Learning (HM-MARL), [website](https://ieeexplore.ieee.org/abstract/document/11395986)
-
-* **[Inf. Fusion 2026]** A hierarchical information policy fusion framework with multimodal large language models for autonomous guidewire navigation in endovascular procedures, [website](https://www.sciencedirect.com/science/article/pii/S1566253525011777)
+* **[ICRA 2026]** Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation, [website](https://doi.org/10.1109/ICRA57385.2026.11697225)
 
 * **[Arxiv 2026.6]** Vision-Language Procedural Reasoning for Context-Aware Reward Modeling of Robotic Endovascular Guidewire Navigation, [website](https://arxiv.org/abs/2606.30698)
 
+* **[ICRA 2026]** Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation, [website](https://ieeexplore.ieee.org/abstract/document/11696341)
+
 * **[Arxiv 2026.7]** Learning Expert Strategy for Autonomous Robotic Endovascular Intervention via Decoupled Procedural Execution, [website](https://arxiv.org/abs/2607.00066)
 
-* **[Bioengineering 2026]** AI-Driven Robotic PCI: A Perception-to-Action Framework for Coronary Guidewire Control, [website](https://www.mdpi.com/2306-5354/13/8/848)
+* **[TMech 2026]** LegoBot: Modular, Compact, Device-Agnostic Robot for Endovascular Catheter and Guidewire Manipulation in Stroke Thrombectomy, [website](https://doi.org/10.1109/TMECH.2026.3695773)
 
 * **[TASE 2026.9]** Perception-Guided Endovascular Navigation via Fuzzy Pose Correction and Short-Horizon Diffusion Policy Learning With In-Vivo Validation, [website](https://ieeexplore.ieee.org/abstract/document/11707691)
 
@@ -259,9 +275,13 @@
 
 * **[Arxiv 2026.11]** Clinician-AI Collaboration in Endovascular Neurointerventions: In-Vitro User Study of Copilot Assistance Modes for Robotic Navigation Across the Autonomy Spectrum, [website](https://arxiv.org/abs/2611.03446)
 
-* **[RBME 2026]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://doi.org/10.1109/RBME.2025.3641383)
+* **[RAL 2026]** Toward AI Autonomous Navigation for Mechanical Thrombectomy Using Hierarchical Modular Multi-Agent Reinforcement Learning (HM-MARL), [website](https://ieeexplore.ieee.org/abstract/document/11395986)
 
-* **[ICRA 2026]** Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation, [website](https://ieeexplore.ieee.org/abstract/document/11696341)
+* **[Inf. Fusion 2026]** A hierarchical information policy fusion framework with multimodal large language models for autonomous guidewire navigation in endovascular procedures, [website](https://www.sciencedirect.com/science/article/pii/S1566253525011777)
+
+* **[Bioengineering 2026]** AI-Driven Robotic PCI: A Perception-to-Action Framework for Coronary Guidewire Control, [website](https://www.mdpi.com/2306-5354/13/8/848)
+
+* **[RBME 2026]** Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions, [website](https://doi.org/10.1109/RBME.2025.3641383)
 
 * **[TRO 2026]** Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention, [website](https://www.ieee-ras.org/news/bending-aware-vision-co-pilot-for-intelligent-robotic-assistance-in-endovascular-intervention/)
 
@@ -273,13 +293,19 @@
 
 * **[Sci. Data 2024]** Dataset for Automatic Region-based Coronary Artery Disease Diagnostics Using X-Ray Angiography Images, [website](https://doi.org/10.1038/s41597-023-02871-z)
 
+* **[WACV 2025]** CardioSyntax: End-to-End SYNTAX Score Prediction - Dataset Benchmark and Method, [website](https://openaccess.thecvf.com/content/WACV2025/html/Ponomarchuk_CardioSyntax_End-to-End_SYNTAX_Score_Prediction_-_Dataset_Benchmark_and_Method_WACV_2025_paper.html), [dataset](https://zenodo.org/records/14005818)
+
 * **[Expert Syst. 2025]** CADICA: A new dataset for coronary artery disease detection by using invasive coronary angiography, [website](https://doi.org/10.1111/exsy.13708)
+
+* **[Arxiv 2026.7]** A Multi-Center Dataset and Benchmark for SYNTAX Segmentation of Coronary Angiograms, [website](https://arxiv.org/abs/2607.22139), [dataset](https://zenodo.org/records/19958730)
 
 * **[Comput. Methods Programs Biomed. 2026]** AngioCAD: A public x-ray angiography dataset and an adaptive fusion framework for stenosis detection, [website](https://doi.org/10.1016/j.cmpb.2026.109368)
 
 ## 6.2 Device Detection, Segmentation and Tracking - 器械识别、分割与跟踪
 
-* **[Arxiv 2024.8]** CathAction: A Benchmark for Endovascular Intervention Understanding, [website](https://arxiv.org/abs/2408.13126)
+* **[Arxiv 2024.8]** CathAction: A Benchmark for Endovascular Intervention Understanding, [website](https://arxiv.org/abs/2408.13126), [MICCAI 2026 clinical expansion](https://endomiccai.github.io/cathation/), [human segmentation training set (143 MB)](https://huggingface.co/datasets/airvlab/CathAction/blob/main/segmentation_human_train.zip)
+
+* **[ACCV 2024]** Guide3D: A Bi-planar X-ray Dataset for Guidewire Segmentation and 3D Reconstruction, [website](https://openaccess.thecvf.com/content/ACCV2024/html/Jianu_Guide3D_A_Bi-planar_X-ray_Dataset_for_Guidewire_Segmentation_and_3D_ACCV_2024_paper.html)
 
 * **[Adv. Intell. Syst. 2025]** Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures, [website](https://doi.org/10.1002/aisy.202500425)
 
@@ -289,9 +315,15 @@
 
 * **[IJCARS 2026]** Toward real-time autonomous navigation: transformer-based catheter tip tracking in fluoroscopy, [website](https://doi.org/10.1007/s11548-026-03647-7)
 
+* **[MICCAI 2026]** RDE-Seg: Role-Disentangled Experts with Residual Routing and Anatomy Constraints for DSA Guidewire Segmentation, [website](https://doi.org/10.1007/978-3-032-38085-2_42)
+
+* **[Scientific Reports 2026]** Innovative electromagnetic catheter tracking using giant magnetoresistive sensors and field-free-point method, [website](https://doi.org/10.1038/s41598-026-79168-9)
+
 ## 6.3 Vascular Anatomy Segmentation and Centerlines - 血管解剖分割与中心线提取
 
 ### CTA / CCTA - CT 血管成像
+
+* **[Med. Image Anal. 2009]** Standardized evaluation methodology and reference database for evaluating coronary artery centerline extraction algorithms, [website](https://www.sciencedirect.com/science/article/pii/S1361841509000474)
 
 * **[Med. Image Anal. 2019]** Coronary artery centerline extraction in cardiac CT angiography using a CNN-based orientation classifier, [website](https://pubmed.ncbi.nlm.nih.gov/30388501/)
 
@@ -299,9 +331,13 @@
 
 * **[Comput. Med. Imaging Graph. 2023]** ImageCAS: A large-scale dataset and benchmark for coronary artery segmentation based on computed tomography angiography images, [website](https://www.sciencedirect.com/science/article/pii/S0895611123001052)
 
+* **[MLHC 2026]** Scaling up fine-grained intracranial vessel annotations in computed tomography angiography, [website](https://proceedings.mlr.press/v340/lin26a.html)
+
+* **[MICCAI 2026]** Robust automatic brain vessel segmentation in 3D CTA scans using dynamic 4D-CTA data, [website](https://doi.org/10.1007/978-3-032-38085-2_43)
+
 * **[Arxiv 2026.11]** Beyond Segmentation: Enriching ImageCAS with Coronary Ostia Landmarks, Rooted Centerline Graphs, and Open-Weight Localization Models, [website](https://arxiv.org/abs/2611.09714)
 
-* **[MIDL 2026]** Scaling up fine-grained intracranial vessel annotations in computed tomography angiography, [website](https://proceedings.mlr.press/v340/lin26a.html)
+* **[J. Imaging Inform. Med. 2026]** Fully Automated Segmentation of Chronic Total Occlusion Lesions on Coronary CT Angiography Using Deep Learning, [website](https://doi.org/10.1007/s10278-026-02503-z)
 
 ### DSA / X-Ray Angiography - 数字减影与 X 线血管造影
 
@@ -319,11 +355,17 @@
 
 * **[Arxiv 2026.1]** Few-Shot Video Object Segmentation in X-Ray Angiography Using Local Matching and Spatio-Temporal Consistency Loss, [website](https://arxiv.org/abs/2601.00988)
 
-* **[JBHI 2026]** Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning, [website](https://doi.org/10.1109/JBHI.2026.3685986)
-
 * **[AAAI 2026]** VasoMIM: Vascular Anatomy-Aware Masked Image Modeling for Vessel Segmentation, [website](https://ojs.aaai.org/index.php/AAAI/article/view/42503)
 
+* **[MICCAI 2026]** Temporal Phase-Difference Guided Spatiotemporal Learning for DSA Vessel Segmentation, [website](https://papers.miccai.org/miccai-2026/1038-Paper1936.html)
+
+* **[MICCAI 2026]** Weakly-Supervised Coronary Artery Segmentation from DSA Sequence via Motion-Aware Modeling, [website](https://papers.miccai.org/miccai-2026/1153-Paper0033.html)
+
+* **[JBHI 2026]** Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning, [website](https://doi.org/10.1109/JBHI.2026.3685986)
+
 ## 6.4 2D–3D Registration and Multi-View Matching - 二维–三维配准与多视角匹配
+
+* **[TMI 2013]** 3D-2D Registration of Cerebral Angiograms: A Method and Evaluation on Clinical Images, [website](https://doi.org/10.1109/TMI.2013.2259844), [dataset](https://lit.fe.uni-lj.si/en/research/resources/3D-2D-GS-CA/)
 
 * **[TMI 2013]** Registration of 3D+t coronary CTA and monoplane 2D+t X-ray angiography, [website](https://pubmed.ncbi.nlm.nih.gov/23392343/)
 
@@ -331,13 +373,19 @@
 
 * **[IJCARS 2023]** Automated image fusion during endovascular aneurysm repair: a feasibility and accuracy study, [website](https://doi.org/10.1007/s11548-023-02832-2)
 
+* **[CVPR 2024]** Intraoperative 2D/3D Image Registration via Differentiable X-ray Rendering, [website](https://openaccess.thecvf.com/content/CVPR2024/html/Gopalakrishnan_Intraoperative_2D3D_Image_Registration_via_Differentiable_X-ray_Rendering_CVPR_2024_paper.html)
+
 * **[TMI 2024]** 3D/2D Vessel Registration Based on Monte Carlo Tree Search and Manifold Regularization, [website](https://doi.org/10.1109/TMI.2023.3347896)
 
 * **[IJCARS 2025]** Improving automatic cerebral 3D-2D CTA-DSA registration, [website](https://doi.org/10.1007/s11548-025-03412-2)
 
-* **[Med. Image Anal. 2026]** Two-stage robust 3D CTA–2D DSA alignment via vascular-aware rigid and pyramid-based hierarchical non-rigid registration, [website](https://www.sciencedirect.com/science/article/pii/S1361841526002197)
-
 * **[MICCAI 2026]** Anatomy-Grounded Synthetic Coronary Angiography for Geometry-Informed Multi-View Matching, [website](https://papers.miccai.org/miccai-2026/0059-Paper6167.html)
+
+* **[MICCAI 2026]** 3D Cerebrovascular Shape Completion from Biplane Angiography and CTA Prior, [website](https://doi.org/10.1007/978-3-032-38186-6_39)
+
+* **[Nature 2026]** Rapid patient-specific neural networks for X-ray to volume registration, [website](https://doi.org/10.1038/s41586-026-11045-x)
+
+* **[Med. Image Anal. 2026]** Two-stage robust 3D CTA–2D DSA alignment via vascular-aware rigid and pyramid-based hierarchical non-rigid registration, [website](https://www.sciencedirect.com/science/article/pii/S1361841526002197)
 
 <section id="Contributors"></section>
 
