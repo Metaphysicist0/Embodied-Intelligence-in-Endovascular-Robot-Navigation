@@ -130,7 +130,11 @@
 
 * **[Nat. Biomed. Eng. 2026]** Iontronic tip-sensing guidewires, [website](https://doi.org/10.1038/s41551-025-01548-9)
 
+* **[CVIR Endovascular 2026]** Portable endovascular disposable robotic assistant (PEDRA) for image-guided peripheral endovascular interventions: technical feasibility, safety, and future implications, [website](https://doi.org/10.1186/s42155-026-00789-2)
+
 * **[Arxiv 2026.11]** Remote Teleoperation of Endovascular Robots: A Network Emulation Framework for Systematic Performance Evaluation, [website](https://arxiv.org/abs/2611.24280)
+
+* **[IJMRCAS 2026]** A Novel Hybrid Gripper for Endovascular Interventions Using Collaborative Robotic Arms, [website](https://doi.org/10.1002/rcs.70253)
 
 ## 4.1 Magnetic Guidewires and Catheters - 磁控导丝与导管
 
@@ -154,9 +158,13 @@
 
 * **[Nat. Comm. 2025]** Magnetically controlled microrobotic system for programmable stiffness tuning and active steering of microcatheters, [website](https://www.nature.com/articles/s41467-025-67638-z)
 
+* **[Science Advances 2026]** Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies, [website](https://doi.org/10.1126/sciadv.aea0201)
+
 * **[TIM 2026]** Intravascular Ultrasound Robot Based on a Permanent Magnet System: Magnetic-Actuated Imaging and Magnetic Localization Navigation, [website](https://doi.org/10.1109/TIM.2026.3670533)
 
 * **[Adv. Healthcare Mater. 2026]** Magnetic Control of Intravascular Collaborative Robotic (Cobot) Guidewire: Neurovascular Intervention Studies in Phantom and Swine Models, [website](https://doi.org/10.1002/adhm.71365)
+
+* **[J. Vasc. Surg. Cases Innov. Tech. 2026]** In vitro fenestrated endovascular aortic repair deployment and cannulation using an electromagnetically steerable guide wire, [website](https://doi.org/10.1016/j.jvscit.2026.102301)
 
 * **[PLOS ONE 2026]** In vitro contact force evaluation of robotic magnetic navigation catheters; Head to head comparison of different catheters and different settings, [website](https://doi.org/10.1371/journal.pone.0357588)
 
@@ -164,7 +172,7 @@
 
 * **[AJNR 2026]** Robotic Intracranial Navigation Using a Magnetically Steerable Guidewire: In Vitro Feasibility Study and Comparison of Performance with Standard Devices for Stroke Treatment, [website](https://doi.org/10.3174/ajnr.A9361)
 
-* **[Science Advances 2026]** Optoacoustically augmented magnetic guidewire for radiation-free minimally invasive therapies, [website](https://doi.org/10.1126/sciadv.aea0201)
+* **[Sens. Actuators A Phys. 2026]** A magnetically actuated catheter robot integrating forward- and side-looking intravascular ultrasound, [website](https://doi.org/10.1016/j.sna.2026.118396)
 
 ## 4.2 Untethered Magnetic Milli-, Micro- and Nanorobots - 无缆磁驱毫米与微纳机器人
 
@@ -245,6 +253,8 @@
 
 * **[IROS 2025]** SplineFormer: An Explainable Transformer Network for Autonomous Endovascular Navigation, [website](https://doi.org/10.1109/IROS60139.2025.11246898)
 
+* **[Front. Robot. AI 2025]** Towards autonomous robot-assisted transcatheter heart valve implantation: in vivo teleoperation and phantom validation of AI-guided positioning, [website](https://doi.org/10.3389/frobt.2025.1650228)
+
 * **[TMRB 2025]** Experience-Based Fuzzy Logic Framework for Robot-Assisted Endovascular Intervention, [website](https://ieeexplore.ieee.org/abstract/document/11145181)
 
 * **[Comput. Biol. Med. 2025]** Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions, [website](https://doi.org/10.1016/j.compbiomed.2025.110844)
@@ -253,7 +263,11 @@
 
 * **[TFS 2025]** Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics, [website](https://ieeexplore.ieee.org/abstract/document/11078928)
 
+* **[J. Am. Heart Assoc. 2026]** A Position Statement on Endovascular Models and Effectiveness Metrics for Mechanical Thrombectomy Navigation, on Behalf of the Stakeholder Taskforce for Artificial Intelligence–Assisted Robotic Thrombectomy (START), [website](https://doi.org/10.1161/JAHA.125.044931)
+
 * **[TMech 2026]** Compact Design and Image-Space Pose Control of a Robot for Tendon-Driven Concentric Catheters in Mitral Repair Interventions, [website](https://doi.org/10.1109/TMECH.2025.3602061)
+
+* **[TMech 2026]** Robotic Steerable Sheath for Left Atrial Appendage Occlusion, [website](https://doi.org/10.1109/TMECH.2026.3689692)
 
 * **[ICRA 2026]** Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation, [website](https://doi.org/10.1109/ICRA57385.2026.11697225)
 
@@ -264,6 +278,10 @@
 * **[Arxiv 2026.7]** Learning Expert Strategy for Autonomous Robotic Endovascular Intervention via Decoupled Procedural Execution, [website](https://arxiv.org/abs/2607.00066)
 
 * **[TMech 2026]** LegoBot: Modular, Compact, Device-Agnostic Robot for Endovascular Catheter and Guidewire Manipulation in Stroke Thrombectomy, [website](https://doi.org/10.1109/TMECH.2026.3695773)
+
+* **[TBME 2026]** Autonomous Patient-Specific Geometry-Aware Planning and Control Framework for Robotic Transcatheter Tricuspid Valve Intervention, [website](https://doi.org/10.1109/TBME.2026.3725663)
+
+* **[J. Robot. Surg. 2026]** A robotic simulation platform for fluoroscopy-guided catheter navigation in transcatheter tricuspid valve intervention: system development and proof-of-concept applications, [website](https://doi.org/10.1007/s11701-026-03852-1)
 
 * **[TASE 2026.9]** Perception-Guided Endovascular Navigation via Fuzzy Pose Correction and Short-Horizon Diffusion Policy Learning With In-Vivo Validation, [website](https://ieeexplore.ieee.org/abstract/document/11707691)
 
@@ -362,6 +380,8 @@
 * **[MICCAI 2026]** Weakly-Supervised Coronary Artery Segmentation from DSA Sequence via Motion-Aware Modeling, [website](https://papers.miccai.org/miccai-2026/1153-Paper0033.html)
 
 * **[JBHI 2026]** Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning, [website](https://doi.org/10.1109/JBHI.2026.3685986)
+
+* **[Biomed. Signal Process. Control 2026]** MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation, [website](https://doi.org/10.1016/j.bspc.2026.110539)
 
 ## 6.4 2D–3D Registration and Multi-View Matching - 二维–三维配准与多视角匹配
 
