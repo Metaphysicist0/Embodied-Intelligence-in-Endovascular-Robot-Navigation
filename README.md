@@ -126,6 +126,8 @@
 
 * **[JACC Cardiovasc. Interv. 2026]** Fully Teleoperated Peripheral Endovascular Interventions With a Novel Robotic System: A First in Human Study, [website](https://doi.org/10.1016/j.jcin.2025.12.021)
 
+* **[Arxiv 2026.7]** A Compact Top-Loading Robot for Endovascular Interventions: Design, Control and Evaluation, [website](https://arxiv.org/abs/2607.11779)
+
 * **[Ann. Biomed. Eng. 2026.7]** Haptic Portable Robotic Device for Automated Guidewire or Catheter Navigation in Endovascular Procedures, [website](https://doi.org/10.1007/s10439-026-04315-2)
 
 * **[Nat. Biomed. Eng. 2026]** Iontronic tip-sensing guidewires, [website](https://doi.org/10.1038/s41551-025-01548-9)
@@ -151,6 +153,8 @@
 * **[Adv. Intell. Syst. 2023]** A Magnetically Controlled Guidewire Robot System with Steering and Propulsion Capabilities for Vascular Interventional Surgery, [website](https://doi.org/10.1002/aisy.202300267)
 
 * **[Science Robotics 2024]** Dexterous helical magnetic robot for improved endovascular access, [website](https://doi.org/10.1126/scirobotics.adh0298)
+
+* **[TMech 2025]** Development and Control of a Dual-Mode Magnetic Intravascular Ultrasound Robot for Imaging in Tortuous Blood Vessels, [website](https://doi.org/10.1109/TMECH.2024.3392243)
 
 * **[ICRA 2025]** Image-Based Compliance Control for Robotic Steering of a Ferromagnetic Guidewire, [website](https://doi.org/10.1109/ICRA55743.2025.11128160)
 
@@ -191,6 +195,8 @@
 * **[Science Advances 2024]** tPA-anchored nanorobots for in vivo arterial recanalization at submillimeter-scale segments, [website](https://doi.org/10.1126/sciadv.adk8970)
 
 * **[Science Robotics 2024]** Tracking and navigation of a microswarm under laser speckle contrast imaging for targeted delivery, [website](https://doi.org/10.1126/scirobotics.adh1978)
+
+* **[Research 2024]** Thermal and Magnetic Dual-Responsive Catheter-Assisted Shape Memory Microrobots for Multistage Vascular Embolization, [website](https://doi.org/10.34133/research.0339)
 
 * **[Commun. Eng. 2024]** Ex vivo validation of magnetically actuated intravascular untethered robots in a clinical setting, [website](https://www.nature.com/articles/s44172-024-00215-2)
 
@@ -361,15 +367,21 @@
 
 * **[ICCV 2021]** Self-Supervised Vessel Segmentation via Adversarial Learning, [website](https://openaccess.thecvf.com/content/ICCV2021/html/Ma_Self-Supervised_Vessel_Segmentation_via_Adversarial_Learning_ICCV_2021_paper.html)
 
+* **[Comput. Biol. Med. 2023]** Enhancing percutaneous coronary intervention with heuristic path planning and deep-learning-based vascular segmentation, [website](https://doi.org/10.1016/j.compbiomed.2023.107540)
+
 * **[Comput. Med. Imaging Graph. 2024]** CAVE: Cerebral artery–vein segmentation in digital subtraction angiography, [website](https://doi.org/10.1016/j.compmedimag.2024.102392)
 
 * **[Sci. Rep. 2024]** Pretrained subtraction and segmentation model for coronary angiograms, [website](https://www.nature.com/articles/s41598-024-71063-5)
 
 * **[Med. Image Anal. 2024]** DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences, [website](https://www.sciencedirect.com/science/article/pii/S1361841524001725)
 
+* **[Med. Image Anal. 2025]** Deep learning based coronary vessels segmentation in X-ray angiography using temporal information, [website](https://doi.org/10.1016/j.media.2025.103496)
+
 * **[CVPR 2025]** DeNVeR: Deformable Neural Vessel Representations for Unsupervised Video Vessel Segmentation, [website](https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DeNVeR_Deformable_Neural_Vessel_Representations_for_Unsupervised_Video_Vessel_Segmentation_CVPR_2025_paper.html)
 
 * **[TMI 2025]** DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation, [website](https://doi.org/10.1109/TMI.2025.3540886)
+
+* **[Comput. Med. Imaging Graph. 2025]** TSNet: Vessel segmentation with sequential frame temporal information in coronary angiography, [website](https://doi.org/10.1016/j.compmedimag.2025.102540)
 
 * **[Arxiv 2026.1]** Few-Shot Video Object Segmentation in X-Ray Angiography Using Local Matching and Spatio-Temporal Consistency Loss, [website](https://arxiv.org/abs/2601.00988)
 
